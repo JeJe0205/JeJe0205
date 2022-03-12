@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeJe0205
-- 👀 I’m interested in Programming HTML/CSS, JavaScript and JAva
+- 👀 I’m interested in Programming HTML/CSS, JavaScript and Java
 - 🌱 I’m currently learning to Programm Python and PHP
 - 📫 How to reach me Email: jenith.jeyaranjan@gmail.com, Tel: 0791759991
 
